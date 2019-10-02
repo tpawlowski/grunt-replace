@@ -19,7 +19,7 @@
   "dependencies": {
     "chalk": "^1.1.0",
     "lodash": "^4.17.15",
-    "applause": "1.2.2",
+    "applause": "tpawlowski/applause#master",
     "file-sync-cmp": "^0.1.0"
   },
   "devDependencies": {
